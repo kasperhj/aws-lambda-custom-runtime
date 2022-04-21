@@ -1,3 +1,9 @@
+# Previously built layers
+*layer.zip
+
+# CDK
+cdk.out
+
 # Logs
 logs
 *.log
